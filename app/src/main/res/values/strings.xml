@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoVideos</string>
+    <string name="dual_videoview">Dual Video Example</string>
+</resources>
